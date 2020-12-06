@@ -51,7 +51,7 @@ th {
 
 #logo:hover {
   animation: shake 0.5s;
-  animation-iteration-count: infinite;
+  animation-iteration-count: 20;
 }
 @keyframes shake {
   0% { transform: translate(1px, 1px) rotate(0deg); }
